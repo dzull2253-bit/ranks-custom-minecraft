@@ -6,7 +6,7 @@ Resource pack custom rank bergaya pixel-art untuk server **Minecraft Paper 26.3 
 
 ---
 
-## 📦 Daftar Rank & Kode Unicode
+## Daftar Rank & Kode Unicode
 
 | Tier / Kategori | Nama Rank | Hex Warna | Kode Unicode |
 | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@ Resource pack custom rank bergaya pixel-art untuk server **Minecraft Paper 26.3 
 
 ---
 
-## 🚀 Cara Instalasi
+## Cara Instalasi
 
 ### 1. Minecraft Java Edition (Server Side)
 Tambahkan baris berikut ke dalam `server.properties`:
@@ -35,5 +35,5 @@ require-resource-pack=true
 
 
 ### 2. Minecraft Bedrock editions (geyser spingot):
-Tambahkan file CustomRanks-Bedrock.mcpack ke dalam folder 
-/plugins/geyser-spingot/pack/CustomRanks-Bedrock.mcpack.
+Tambahkan file CustomRanks-Bedrock.mcpack ke dalam folder.
+(/plugins/geyser-spingot/pack/CustomRanks-Bedrock.mcpack.)
