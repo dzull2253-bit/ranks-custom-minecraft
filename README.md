@@ -1,8 +1,8 @@
-# ✨ Aspiral Universe — Custom Rank Badges
+# ✨ Aspiral — Custom Rank Badges
 
 Resource pack custom rank bergaya pixel-art untuk server **Minecraft Paper 26.3 Crossplay (Java & Bedrock via Geyser + Floodgate)**.
 
-![Preview Rank Badges](Preview-Badges.png)
+![Preview Rank Badges](preview-badge.png)
 
 ---
 
