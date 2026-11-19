@@ -28,10 +28,11 @@ Resource pack custom rank bergaya pixel-art untuk server **Minecraft Paper 26.3 
 
 ### 1. Minecraft Java Edition (Server Side)
 Tambahkan baris berikut ke dalam `server.properties`:
-```properties
+properties
 resource-pack=[https://github.com/dzull2253-bit/ranks-custom-minecraft/releases/download/aspiral.v1.0/CustomRanks-Java.zip](https://github.com/dzull2253-bit/ranks-custom-minecraft/releases/download/aspiral.v1.0/CustomRanks-Java.zip)
 resource-pack-sha1=<ISI_SHA1_DISINI>
 require-resource-pack=true
+
 
 ### 2. Minecraft Bedrock editions (geyser spingot):
 Tambahkan file CustomRanks-Bedrock.mcpack ke dalam folder 
